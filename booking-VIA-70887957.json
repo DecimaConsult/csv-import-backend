@@ -1,0 +1,2336 @@
+{
+  "creationDate": 1754501282000,
+  "bookingId": 70887957,
+  "language": "en",
+  "confirmationCode": "VIA-70887957",
+  "externalBookingReference": "1298576167",
+  "status": "CONFIRMED",
+  "currency": "EUR",
+  "totalPrice": 182.16,
+  "totalPaid": 182.16,
+  "totalDue": 0,
+  "totalDueAsText": "€0.00",
+  "totalPriceConverted": 182.16,
+  "customer": {
+    "contactDetailsHidden": false,
+    "contactDetailsHiddenUntil": null,
+    "id": 165523505,
+    "created": null,
+    "uuid": null,
+    "email": "S-0a21c72e00f44eff8be32029c0b8afb9+1298576167-3vyx2ckxk9ynf@expmessaging.tripadvisor.com",
+    "title": null,
+    "firstName": "Jamie",
+    "lastName": "Dubes",
+    "personalIdNumber": null,
+    "clcEmail": true,
+    "language": null,
+    "nationality": null,
+    "sex": null,
+    "dateOfBirth": null,
+    "phoneNumber": "US+1 2604146304",
+    "phoneNumberCountryCode": null,
+    "address": null,
+    "postCode": null,
+    "state": null,
+    "place": null,
+    "country": null,
+    "organization": null,
+    "passportId": null,
+    "passportExpDay": null,
+    "passportExpMonth": null,
+    "passportExpYear": null,
+    "credentials": null,
+    "acceptsMarketing": false,
+    "tags": null,
+    "octoNote": null,
+    "phoneNumberLinkable": "+12604146304"
+  },
+  "invoice": {
+    "id": 493222134,
+    "issueDate": 1771936631000,
+    "currency": "EUR",
+    "includedAppliedTaxes": [],
+    "excludedAppliedTaxes": [],
+    "issuer": {
+      "id": 5194,
+      "title": "Viator.com",
+      "externalId": "",
+      "flags": []
+    },
+    "issuerCompany": {
+      "registrationNumber": "9951941111"
+    },
+    "customLineItems": [],
+    "productInvoices": [
+      {
+        "id": 231040180,
+        "currency": "EUR",
+        "includedAppliedTaxes": [],
+        "excludedAppliedTaxes": [],
+        "productBookingId": 103957345,
+        "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator - Tue, March 31 2026 - 8:50 AM - Summit Access",
+        "product": {
+          "id": 1019775,
+          "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+          "flags": [],
+          "keyPhoto": {
+            "id": 8854675,
+            "originalUrl": "https://bokun.s3.amazonaws.com/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg",
+            "description": null,
+            "alternateText": null,
+            "height": "480",
+            "width": "720",
+            "fileName": "/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg",
+            "flags": [],
+            "derived": [
+              {
+                "name": "thumbnail",
+                "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=80&h=80&mode=crop",
+                "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=80&h=80&mode=crop"
+              },
+              {
+                "name": "preview",
+                "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=300&h=300",
+                "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=300&h=300"
+              },
+              {
+                "name": "large",
+                "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=660&h=660",
+                "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=660&h=660"
+              }
+            ]
+          },
+          "vendor": {
+            "id": 112548,
+            "title": "Uncle Sam Tours Private Limited",
+            "currencyCode": "EUR",
+            "countryCode": "FR",
+            "showInvoiceIdOnTicket": false,
+            "showAgentDetailsOnTicket": false,
+            "showPaymentsOnInvoice": false,
+            "companyEmailIsDefault": false
+          },
+          "isPassProduct": false,
+          "rateTitle": "Eiffel Tower Climbing Tour with Summit Access",
+          "offers": []
+        },
+        "productCategory": "ACTIVITIES",
+        "productConfirmationCode": "UNC-T103957345",
+        "dates": "Tue, March 31 2026 - 08:50 - Summit Access",
+        "timestamp": 1774947000000,
+        "hasFees": false,
+        "customLineItems": [
+          {
+            "id": 93976853,
+            "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+            "currency": "EUR",
+            "unitPriceDate": 1771936631000,
+            "quantity": 1,
+            "unitPrice": 182.16,
+            "calculatedDiscount": 0,
+            "customDiscount": 0,
+            "calculatedDiscountAmount": 0,
+            "taxAmount": 0,
+            "taxesAsMoney": [],
+            "strikeThroughTotal": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "invoiceActivityBookingId": 103957345,
+            "lineItemType": "CUSTOM_PRICE",
+            "totalDiscountedAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "totalAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "totalDueAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "taxAsMoney": {
+              "amount": 0,
+              "currency": "EUR"
+            },
+            "discountedUnitPriceAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "total": 182.16,
+            "discount": 0,
+            "totalDue": 182.16,
+            "unitPriceAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "totalDiscounted": 182.16,
+            "discountedUnitPrice": 182.16,
+            "discountAmountAsMoney": {
+              "amount": 0,
+              "currency": "EUR"
+            },
+            "taxAsText": "€0.00",
+            "discountedUnitPriceAsText": "€182.16",
+            "unitPriceAsText": "€182.16",
+            "calculatedDiscountAmountAsMoney": {
+              "amount": 0,
+              "currency": "EUR"
+            },
+            "discountAmountAsText": "€0.00",
+            "totalAsText": "€182.16",
+            "totalDiscountedAsText": "€182.16",
+            "totalDueAsText": "€182.16"
+          }
+        ],
+        "lineItems": [],
+        "appliedFees": [],
+        "totalFeesAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalFeesAsText": "€0.00",
+        "totalIncludedTaxAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalDiscountedAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "totalAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "free": false,
+        "totalDueAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "totalExcludedTaxAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalTaxAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalDiscountAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "strikeThroughTotalAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "excludedTaxes": false,
+        "includedTaxes": false,
+        "totalAsText": "€182.16",
+        "totalWithExcludedTaxAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "totalDiscountedAsText": "€182.16",
+        "totalDiscountAsText": "€0.00",
+        "totalDueAsText": "€182.16",
+        "totalExcludedTaxAsText": "€0.00",
+        "totalIncludedTaxAsText": "€0.00",
+        "totalTaxAsText": "€0.00",
+        "strikeThroughTotalAsText": "€182.16"
+      }
+    ],
+    "payments": [],
+    "appliedFees": [],
+    "issuerName": "Viator.com",
+    "lodgingTaxes": [],
+    "totalDueAsMoney": {
+      "amount": 182.16,
+      "currency": "EUR"
+    },
+    "totalBookingFeePercent": 0,
+    "totalFeesAsMoney": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "invoiceNumber": "C-493222134",
+    "totalBookingFeeAsMoney": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "totalDueWithoutExcludedTaxAsMoney": {
+      "amount": 182.16,
+      "currency": "EUR"
+    },
+    "recipientName": "",
+    "totalFeesAsText": "€0.00",
+    "totalIncludedTaxAsMoney": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "totalDiscountedAsMoney": {
+      "amount": 182.16,
+      "currency": "EUR"
+    },
+    "totalAsMoney": {
+      "amount": 182.16,
+      "currency": "EUR"
+    },
+    "free": false,
+    "totalExcludedTaxAsMoney": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "totalTaxAsMoney": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "totalDiscountAsMoney": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "strikeThroughTotalAsMoney": {
+      "amount": 182.16,
+      "currency": "EUR"
+    },
+    "excludedTaxes": false,
+    "includedTaxes": false,
+    "totalAsText": "€182.16",
+    "totalWithExcludedTaxAsMoney": {
+      "amount": 182.16,
+      "currency": "EUR"
+    },
+    "totalDiscountedAsText": "€182.16",
+    "totalDiscountAsText": "€0.00",
+    "totalDueAsText": "€182.16",
+    "totalExcludedTaxAsText": "€0.00",
+    "totalIncludedTaxAsText": "€0.00",
+    "totalTaxAsText": "€0.00",
+    "strikeThroughTotalAsText": "€182.16"
+  },
+  "customerPayments": [
+    {
+      "id": 40371079,
+      "amount": 201.6,
+      "currency": "EUR",
+      "comment": "Payment for booking #70887957, performed by Viator.com: Vendor background process",
+      "transactionDate": 1754501456000,
+      "activeCustomerInvoiceId": 403597323,
+      "paymentType": "VOUCHER",
+      "isRefundable": false,
+      "totalRefundedAmount": 19.44,
+      "maxRefundableAmount": 201.6,
+      "amountAsText": "€201.60",
+      "refundedAmountAsText": "€-19.44",
+      "remainingRefundableAmount": 182.16,
+      "amountAsMoney": {
+        "amount": 201.6,
+        "currency": "EUR"
+      },
+      "refundable": false
+    },
+    {
+      "id": 49021147,
+      "amount": -19.44,
+      "currency": "EUR",
+      "comment": "Refund for booking #70887957, performed by Uncle Sam Tours Private Limited: Vendor background process",
+      "transactionDate": 1771936631000,
+      "activeCustomerInvoiceId": 493222134,
+      "paymentType": "VOUCHER",
+      "isRefundable": false,
+      "totalRefundedAmount": 19.44,
+      "maxRefundableAmount": -19.44,
+      "amountAsText": "€-19.44",
+      "refundedAmountAsText": "€-19.44",
+      "remainingRefundableAmount": -38.88,
+      "amountAsMoney": {
+        "amount": -19.44,
+        "currency": "EUR"
+      },
+      "refundable": false
+    }
+  ],
+  "paymentType": "PAID_IN_FULL",
+  "seller": {
+    "id": 5194,
+    "title": "Viator.com",
+    "description": "Viator is an online and mobile global marketplace for travelers to discover, research and book experiences. Make sure your account with Viator is active before you connect.",
+    "logo": {
+      "id": 2657869,
+      "originalUrl": "https://bokun.s3.amazonaws.com/photo2657869original",
+      "description": null,
+      "alternateText": null,
+      "height": null,
+      "width": null,
+      "fileName": "/photo2657869original",
+      "flags": [],
+      "derived": [
+        {
+          "name": "thumbnail",
+          "url": "https://imgcdn.bokun.tools/photo2657869original?w=80&h=80&mode=crop",
+          "cleanUrl": "https://imgcdn.bokun.tools/photo2657869original?w=80&h=80&mode=crop"
+        },
+        {
+          "name": "preview",
+          "url": "https://imgcdn.bokun.tools/photo2657869original?w=300&h=300",
+          "cleanUrl": "https://imgcdn.bokun.tools/photo2657869original?w=300&h=300"
+        },
+        {
+          "name": "large",
+          "url": "https://imgcdn.bokun.tools/photo2657869original?w=660&h=660",
+          "cleanUrl": "https://imgcdn.bokun.tools/photo2657869original?w=660&h=660"
+        }
+      ]
+    },
+    "currencyCode": "AUD",
+    "countryCode": "AU",
+    "phoneNumber": "+1 888 651-9785",
+    "emailAddress": "supplierapi@viator.com",
+    "website": "https://supplier.viator.com/sign-up-info",
+    "invoiceIdNumber": "9951941111",
+    "timeZone": "Australia/Sydney",
+    "showInvoiceIdOnTicket": true,
+    "showAgentDetailsOnTicket": false,
+    "showPaymentsOnInvoice": false,
+    "companyEmailIsDefault": true
+  },
+  "bookingChannel": {
+    "id": 12296,
+    "uuid": "d2ae97f9-6da6-11e8-a513-0a2ad9ec68ab",
+    "title": "Viator.com",
+    "backend": false,
+    "overrideVoucherHeader": false,
+    "type": "OTA",
+    "paymentProviderAdded": false,
+    "flags": [
+      "Account:11514"
+    ],
+    "shoppingCartPosition": "RIGHT"
+  },
+  "accommodationBookings": [],
+  "activityBookings": [
+    {
+      "bookingId": 103957345,
+      "parentBookingId": 70887957,
+      "confirmationCode": "VIA-70887957",
+      "productConfirmationCode": "UNC-T103957345",
+      "barcode": {
+        "value": "UNC-T103957345",
+        "barcodeType": "CODE_128"
+      },
+      "hasTicket": false,
+      "boxBooking": false,
+      "startDateTime": 1774947000000,
+      "endDateTime": 1774954200000,
+      "status": "CONFIRMED",
+      "includedOnCustomerInvoice": false,
+      "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+      "totalPrice": 182.16,
+      "priceWithDiscount": 182.16,
+      "totalPriceAsText": "€182.16",
+      "priceWithDiscountAsText": "€182.16",
+      "discountPercentage": 0,
+      "discountAmount": 0,
+      "productCategory": "ACTIVITIES",
+      "paidType": "PAID_IN_FULL",
+      "product": {
+        "id": 1019775,
+        "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+        "flags": [],
+        "vendor": {
+          "id": 112548,
+          "title": "Uncle Sam Tours Private Limited",
+          "currencyCode": "EUR",
+          "showInvoiceIdOnTicket": false,
+          "showAgentDetailsOnTicket": false,
+          "showPaymentsOnInvoice": false,
+          "companyEmailIsDefault": false
+        },
+        "externalId": "5512924P12",
+        "productCategory": "ACTIVITIES",
+        "isPassProduct": false,
+        "excerpt": "",
+        "offers": [],
+        "cancellationPolicy": {
+          "id": 216370,
+          "title": "Standard Viator policy",
+          "penaltyRules": [
+            {
+              "id": 228273,
+              "cutoffHours": 24,
+              "charge": 100,
+              "chargeType": "percentage",
+              "percentage": 100
+            },
+            {
+              "id": 228272,
+              "cutoffHours": 48,
+              "charge": 0,
+              "chargeType": "percentage",
+              "percentage": 0
+            }
+          ],
+          "tax": null,
+          "defaultPolicy": false,
+          "policyType": "ADVANCED",
+          "simpleCutoffHours": null,
+          "policyTypeEnum": "ADVANCED"
+        }
+      },
+      "supplier": {
+        "id": 112548,
+        "title": "Uncle Sam Tours Private Limited",
+        "description": "A Paris Favorite — Time After Time.",
+        "currencyCode": "EUR",
+        "countryCode": "FR",
+        "phoneNumber": "+91 9642290666",
+        "emailAddress": "hello@unclesam.tours",
+        "website": "unclesam.tours",
+        "invoiceIdNumber": "",
+        "timeZone": "Europe/Paris",
+        "showInvoiceIdOnTicket": true,
+        "showAgentDetailsOnTicket": false,
+        "showPaymentsOnInvoice": false,
+        "companyEmailIsDefault": false,
+        "linkedExternalCustomers": []
+      },
+      "seller": {
+        "id": 5194,
+        "title": "Viator.com",
+        "description": "Viator is an online and mobile global marketplace for travelers to discover, research and book experiences. Make sure your account with Viator is active before you connect.",
+        "logo": {
+          "id": 2657869,
+          "originalUrl": "https://bokun.s3.amazonaws.com/photo2657869original",
+          "description": null,
+          "alternateText": null,
+          "height": null,
+          "width": null,
+          "fileName": "/photo2657869original",
+          "flags": [],
+          "derived": [
+            {
+              "name": "thumbnail",
+              "url": "https://imgcdn.bokun.tools/photo2657869original?w=80&h=80&mode=crop",
+              "cleanUrl": "https://imgcdn.bokun.tools/photo2657869original?w=80&h=80&mode=crop"
+            },
+            {
+              "name": "preview",
+              "url": "https://imgcdn.bokun.tools/photo2657869original?w=300&h=300",
+              "cleanUrl": "https://imgcdn.bokun.tools/photo2657869original?w=300&h=300"
+            },
+            {
+              "name": "large",
+              "url": "https://imgcdn.bokun.tools/photo2657869original?w=660&h=660",
+              "cleanUrl": "https://imgcdn.bokun.tools/photo2657869original?w=660&h=660"
+            }
+          ]
+        },
+        "currencyCode": "AUD",
+        "countryCode": "AU",
+        "phoneNumber": "+1 888 651-9785",
+        "emailAddress": "supplierapi@viator.com",
+        "website": "https://supplier.viator.com/sign-up-info",
+        "invoiceIdNumber": "9951941111",
+        "timeZone": "Australia/Sydney",
+        "showInvoiceIdOnTicket": true,
+        "showAgentDetailsOnTicket": false,
+        "showPaymentsOnInvoice": false,
+        "companyEmailIsDefault": true,
+        "linkedExternalCustomers": []
+      },
+      "productId": 1019775,
+      "linksToExternalProducts": [],
+      "answers": [],
+      "invoice": {
+        "id": 231040180,
+        "currency": "EUR",
+        "includedAppliedTaxes": [],
+        "excludedAppliedTaxes": [],
+        "productBookingId": 103957345,
+        "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator - Tue, March 31 2026 - 8:50 AM - Summit Access",
+        "product": {
+          "id": 1019775,
+          "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+          "flags": [],
+          "keyPhoto": {
+            "id": 8854675,
+            "originalUrl": "https://bokun.s3.amazonaws.com/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg",
+            "description": null,
+            "alternateText": null,
+            "height": "480",
+            "width": "720",
+            "fileName": "/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg",
+            "flags": [],
+            "derived": [
+              {
+                "name": "thumbnail",
+                "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=80&h=80&mode=crop",
+                "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=80&h=80&mode=crop"
+              },
+              {
+                "name": "preview",
+                "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=300&h=300",
+                "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=300&h=300"
+              },
+              {
+                "name": "large",
+                "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=660&h=660",
+                "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=660&h=660"
+              }
+            ]
+          },
+          "vendor": {
+            "id": 112548,
+            "title": "Uncle Sam Tours Private Limited",
+            "currencyCode": "EUR",
+            "countryCode": "FR",
+            "showInvoiceIdOnTicket": false,
+            "showAgentDetailsOnTicket": false,
+            "showPaymentsOnInvoice": false,
+            "companyEmailIsDefault": false
+          },
+          "isPassProduct": false,
+          "rateTitle": "Eiffel Tower Climbing Tour with Summit Access",
+          "offers": []
+        },
+        "productCategory": "ACTIVITIES",
+        "productConfirmationCode": "UNC-T103957345",
+        "dates": "Tue, March 31 2026 - 08:50 - Summit Access",
+        "timestamp": 1774947000000,
+        "hasFees": false,
+        "customLineItems": [
+          {
+            "id": 93976853,
+            "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+            "currency": "EUR",
+            "unitPriceDate": 1771936631000,
+            "quantity": 1,
+            "unitPrice": 182.16,
+            "calculatedDiscount": 0,
+            "customDiscount": 0,
+            "calculatedDiscountAmount": 0,
+            "taxAmount": 0,
+            "taxesAsMoney": [],
+            "strikeThroughTotal": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "invoiceActivityBookingId": 103957345,
+            "lineItemType": "CUSTOM_PRICE",
+            "totalDiscountedAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "totalAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "totalDueAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "taxAsMoney": {
+              "amount": 0,
+              "currency": "EUR"
+            },
+            "discountedUnitPriceAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "total": 182.16,
+            "discount": 0,
+            "totalDue": 182.16,
+            "unitPriceAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "totalDiscounted": 182.16,
+            "discountedUnitPrice": 182.16,
+            "discountAmountAsMoney": {
+              "amount": 0,
+              "currency": "EUR"
+            },
+            "taxAsText": "€0.00",
+            "discountedUnitPriceAsText": "€182.16",
+            "unitPriceAsText": "€182.16",
+            "calculatedDiscountAmountAsMoney": {
+              "amount": 0,
+              "currency": "EUR"
+            },
+            "discountAmountAsText": "€0.00",
+            "totalAsText": "€182.16",
+            "totalDiscountedAsText": "€182.16",
+            "totalDueAsText": "€182.16"
+          }
+        ],
+        "lineItems": [],
+        "appliedFees": [],
+        "totalFeesAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalFeesAsText": "€0.00",
+        "totalIncludedTaxAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalDiscountedAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "totalAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "free": false,
+        "totalDueAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "totalExcludedTaxAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalTaxAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalDiscountAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "strikeThroughTotalAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "excludedTaxes": false,
+        "includedTaxes": false,
+        "totalAsText": "€182.16",
+        "totalWithExcludedTaxAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "totalDiscountedAsText": "€182.16",
+        "totalDiscountAsText": "€0.00",
+        "totalDueAsText": "€182.16",
+        "totalExcludedTaxAsText": "€0.00",
+        "totalIncludedTaxAsText": "€0.00",
+        "totalTaxAsText": "€0.00",
+        "strikeThroughTotalAsText": "€182.16"
+      },
+      "sellerInvoice": {
+        "id": 74611720,
+        "issueDate": 1771936631000,
+        "currency": "EUR",
+        "includedAppliedTaxes": [],
+        "excludedAppliedTaxes": [],
+        "type": "SELLER",
+        "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator (Eiffel Tower Climbing Tour with Summit Access) - Tue, March 31 2026 - 8:50 AM - Summit Access",
+        "issuer": {
+          "id": 112548,
+          "title": "Uncle Sam Tours Private Limited",
+          "externalId": "",
+          "flags": []
+        },
+        "recipient": {
+          "id": 5194,
+          "title": "Viator.com",
+          "externalId": "",
+          "flags": []
+        },
+        "reconciled": false,
+        "product": {
+          "id": 1019775,
+          "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+          "externalId": "5512924P12",
+          "flags": []
+        },
+        "productConfirmationCode": "UNC-T103957345",
+        "dates": "Tue, March 31 2026 - 8:50 AM - Summit Access",
+        "customLineItems": [
+          {
+            "id": 93976854,
+            "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+            "currency": "EUR",
+            "unitPriceDate": 1771936631000,
+            "quantity": 1,
+            "unitPrice": 182.16,
+            "calculatedDiscount": 0,
+            "customDiscount": 0,
+            "calculatedDiscountAmount": 0,
+            "taxAmount": 0,
+            "taxesAsMoney": [],
+            "strikeThroughTotal": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "invoiceActivityBookingId": 103957345,
+            "lineItemType": "OTA_SALE",
+            "commission": 0,
+            "totalDiscountedAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "totalAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "totalDueAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "taxAsMoney": {
+              "amount": 0,
+              "currency": "EUR"
+            },
+            "discountedUnitPriceAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "total": 182.16,
+            "discount": 0,
+            "totalDue": 182.16,
+            "unitPriceAsMoney": {
+              "amount": 182.16,
+              "currency": "EUR"
+            },
+            "totalDiscounted": 182.16,
+            "discountedUnitPrice": 182.16,
+            "discountAmountAsMoney": {
+              "amount": 0,
+              "currency": "EUR"
+            },
+            "taxAsText": "€0.00",
+            "discountedUnitPriceAsText": "€182.16",
+            "unitPriceAsText": "€182.16",
+            "calculatedDiscountAmountAsMoney": {
+              "amount": 0,
+              "currency": "EUR"
+            },
+            "discountAmountAsText": "€0.00",
+            "totalAsText": "€182.16",
+            "totalDiscountedAsText": "€182.16",
+            "totalDueAsText": "€182.16"
+          }
+        ],
+        "lineItems": [],
+        "issuerName": "Uncle Sam Tours Private Limited",
+        "invoiceNumber": "S-74611720",
+        "recipientName": "Viator.com",
+        "totalIncludedTaxAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalDiscountedAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "totalAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "free": false,
+        "totalDueAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "totalExcludedTaxAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalTaxAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "totalDiscountAsMoney": {
+          "amount": 0,
+          "currency": "EUR"
+        },
+        "strikeThroughTotalAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "excludedTaxes": false,
+        "includedTaxes": false,
+        "totalAsText": "€182.16",
+        "totalWithExcludedTaxAsMoney": {
+          "amount": 182.16,
+          "currency": "EUR"
+        },
+        "totalDiscountedAsText": "€182.16",
+        "totalDiscountAsText": "€0.00",
+        "totalDueAsText": "€182.16",
+        "totalExcludedTaxAsText": "€0.00",
+        "totalIncludedTaxAsText": "€0.00",
+        "totalTaxAsText": "€0.00",
+        "strikeThroughTotalAsText": "€182.16"
+      },
+      "notes": [
+        {
+          "author": "mhisham1990@gmail.com",
+          "body": "--- Inclusions: --- \nProfessional guide\nEntrance tickets to the 1st and 2nd floors of the Eiffel Tower\nFully guided stair climb\nSummit access by elevator (if selected)\nEntry/Admission to the Eiffel Tower\nEntry/Admission - Eiffel Tower\n\n--- Questions and answers: --- \nDate of Birth : 08/28/1977, 10/19/1977, 11/19/2009, 08/14/2007\n\n--- Booking languages: --- \nGUIDE : English\n\n",
+          "type": "GENERAL",
+          "sentAsEmail": false,
+          "voucherAttached": false,
+          "voucherPricesShown": false
+        },
+        {
+          "author": "mhisham1990@gmail.com",
+          "body": "Viator amount: EUR 182.16",
+          "type": "FINANCE",
+          "sentAsEmail": false,
+          "voucherAttached": false,
+          "voucherPricesShown": false
+        }
+      ],
+      "supplierContractFlags": [],
+      "sellerContractFlags": [],
+      "cancellationPolicy": {
+        "id": 216370,
+        "title": "Standard Viator policy",
+        "penaltyRules": [
+          {
+            "id": 228273,
+            "cutoffHours": 24,
+            "charge": 100,
+            "chargeType": "percentage",
+            "percentage": 100
+          },
+          {
+            "id": 228272,
+            "cutoffHours": 48,
+            "charge": 0,
+            "chargeType": "percentage",
+            "percentage": 0
+          }
+        ],
+        "tax": null,
+        "defaultPolicy": false,
+        "policyType": "ADVANCED",
+        "simpleCutoffHours": null,
+        "policyTypeEnum": "ADVANCED"
+      },
+      "bookingRoles": [
+        "OTA_SUPPLIER",
+        "NONE"
+      ],
+      "refundProtectionSelected": false,
+      "refundProtectionOffered": false,
+      "date": 1774915200000,
+      "dateString": "Tue, March 31 2026 - 8:50 AM - Summit Access",
+      "startTime": "08:50",
+      "startTimeId": 4533048,
+      "startTimeExternalLabel": "Summit Access",
+      "rateId": 1989717,
+      "rateTitle": "Eiffel Tower Climbing Tour with Summit Access",
+      "activity": {
+        "id": 1019775,
+        "externalId": "5512924P12",
+        "productGroupId": null,
+        "productCategory": "ACTIVITIES",
+        "box": false,
+        "inventoryLocal": true,
+        "inventorySupportsPricing": false,
+        "inventorySupportsAvailability": true,
+        "creationDate": "Thu May 01 07:54:52 UTC 2025",
+        "lastModified": "Thu Mar 26 07:07:07 UTC 2026",
+        "lastPublished": "Thu Mar 26 07:07:10 UTC 2026",
+        "published": true,
+        "title": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+        "description": "Don’t miss out on this unforgettable experience at one of the world’s most iconic landmarks! Our exclusive Eiffel Tower tour invites you to climb the stairs to the 2nd floor alongside a professional guide who will share captivating stories about the tower’s history and the breathtaking views of Paris. With a small group setting, you'll enjoy a more personal and engaging experience away from the crowds.<br/><br/>You’ll also have the option to upgrade your ticket to include access to the summit via elevator for an even more spectacular view. Please note that summit access is managed by the Eiffel Tower authorities and may be closed without prior notice due to weather or operational reasons. If the summit is closed on the day of your tour, a refund for the summit portion will be provided.<br/><br/>Book now for an unforgettable adventure in the heart of Paris!",
+        "excerpt": "",
+        "cancellationPolicy": null,
+        "overrideBarcodeFormat": true,
+        "barcodeType": "CODE_128",
+        "timeZone": "Europe/Paris",
+        "mainContactFields": [
+          {
+            "field": "FIRST_NAME",
+            "required": true,
+            "requiredBeforeDeparture": false
+          },
+          {
+            "field": "LAST_NAME",
+            "required": true,
+            "requiredBeforeDeparture": false
+          },
+          {
+            "field": "EMAIL",
+            "required": true,
+            "requiredBeforeDeparture": false
+          },
+          {
+            "field": "PHONE_NUMBER",
+            "required": true,
+            "requiredBeforeDeparture": false
+          }
+        ],
+        "requiredCustomerFields": [],
+        "keywords": [
+          "with",
+          "Climbing",
+          "Access",
+          "Tower",
+          "Summit",
+          "Eiffel",
+          "Tour"
+        ],
+        "flags": [],
+        "slug": null,
+        "baseLanguage": "en_US",
+        "languages": [
+          "ar",
+          "de",
+          "en_US",
+          "es"
+        ],
+        "paymentCurrencies": [
+          "EUR"
+        ],
+        "customFields": [],
+        "tagGroups": [],
+        "categories": [],
+        "keyPhoto": {
+          "id": 8854675,
+          "originalUrl": "https://bokun.s3.amazonaws.com/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg",
+          "description": null,
+          "alternateText": null,
+          "height": "480",
+          "width": "720",
+          "fileName": "/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg",
+          "flags": [],
+          "derived": [
+            {
+              "name": "thumbnail",
+              "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=80&h=80&mode=crop",
+              "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=80&h=80&mode=crop"
+            },
+            {
+              "name": "preview",
+              "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=300&h=300",
+              "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=300&h=300"
+            },
+            {
+              "name": "large",
+              "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=660&h=660",
+              "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=660&h=660"
+            }
+          ]
+        },
+        "photos": [
+          {
+            "id": 8854675,
+            "originalUrl": "https://bokun.s3.amazonaws.com/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg",
+            "description": null,
+            "alternateText": null,
+            "height": "480",
+            "width": "720",
+            "fileName": "/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg",
+            "flags": [],
+            "derived": [
+              {
+                "name": "thumbnail",
+                "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=80&h=80&mode=crop",
+                "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=80&h=80&mode=crop"
+              },
+              {
+                "name": "preview",
+                "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=300&h=300",
+                "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=300&h=300"
+              },
+              {
+                "name": "large",
+                "url": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=660&h=660",
+                "cleanUrl": "https://imgcdn.bokun.tools/ff6c3f30-5e9b-4644-86ce-036da3e2036a.jpg?w=660&h=660"
+              }
+            ]
+          },
+          {
+            "id": 8854676,
+            "originalUrl": "https://bokun.s3.amazonaws.com/f408c06c-7c41-44b0-beb7-0e1207ff47fb.jpg",
+            "description": null,
+            "alternateText": null,
+            "height": "480",
+            "width": "720",
+            "fileName": "/f408c06c-7c41-44b0-beb7-0e1207ff47fb.jpg",
+            "flags": [],
+            "derived": [
+              {
+                "name": "thumbnail",
+                "url": "https://imgcdn.bokun.tools/f408c06c-7c41-44b0-beb7-0e1207ff47fb.jpg?w=80&h=80&mode=crop",
+                "cleanUrl": "https://imgcdn.bokun.tools/f408c06c-7c41-44b0-beb7-0e1207ff47fb.jpg?w=80&h=80&mode=crop"
+              },
+              {
+                "name": "preview",
+                "url": "https://imgcdn.bokun.tools/f408c06c-7c41-44b0-beb7-0e1207ff47fb.jpg?w=300&h=300",
+                "cleanUrl": "https://imgcdn.bokun.tools/f408c06c-7c41-44b0-beb7-0e1207ff47fb.jpg?w=300&h=300"
+              },
+              {
+                "name": "large",
+                "url": "https://imgcdn.bokun.tools/f408c06c-7c41-44b0-beb7-0e1207ff47fb.jpg?w=660&h=660",
+                "cleanUrl": "https://imgcdn.bokun.tools/f408c06c-7c41-44b0-beb7-0e1207ff47fb.jpg?w=660&h=660"
+              }
+            ]
+          },
+          {
+            "id": 8854677,
+            "originalUrl": "https://bokun.s3.amazonaws.com/db7893af-44bb-42dd-80f8-10e327d1b5c3.jpg",
+            "description": null,
+            "alternateText": null,
+            "height": "480",
+            "width": "720",
+            "fileName": "/db7893af-44bb-42dd-80f8-10e327d1b5c3.jpg",
+            "flags": [],
+            "derived": [
+              {
+                "name": "thumbnail",
+                "url": "https://imgcdn.bokun.tools/db7893af-44bb-42dd-80f8-10e327d1b5c3.jpg?w=80&h=80&mode=crop",
+                "cleanUrl": "https://imgcdn.bokun.tools/db7893af-44bb-42dd-80f8-10e327d1b5c3.jpg?w=80&h=80&mode=crop"
+              },
+              {
+                "name": "preview",
+                "url": "https://imgcdn.bokun.tools/db7893af-44bb-42dd-80f8-10e327d1b5c3.jpg?w=300&h=300",
+                "cleanUrl": "https://imgcdn.bokun.tools/db7893af-44bb-42dd-80f8-10e327d1b5c3.jpg?w=300&h=300"
+              },
+              {
+                "name": "large",
+                "url": "https://imgcdn.bokun.tools/db7893af-44bb-42dd-80f8-10e327d1b5c3.jpg?w=660&h=660",
+                "cleanUrl": "https://imgcdn.bokun.tools/db7893af-44bb-42dd-80f8-10e327d1b5c3.jpg?w=660&h=660"
+              }
+            ]
+          },
+          {
+            "id": 8854678,
+            "originalUrl": "https://bokun.s3.amazonaws.com/7268871e-f4b2-4987-b06e-ecbc51beee57.jpg",
+            "description": null,
+            "alternateText": null,
+            "height": "480",
+            "width": "720",
+            "fileName": "/7268871e-f4b2-4987-b06e-ecbc51beee57.jpg",
+            "flags": [],
+            "derived": [
+              {
+                "name": "thumbnail",
+                "url": "https://imgcdn.bokun.tools/7268871e-f4b2-4987-b06e-ecbc51beee57.jpg?w=80&h=80&mode=crop",
+                "cleanUrl": "https://imgcdn.bokun.tools/7268871e-f4b2-4987-b06e-ecbc51beee57.jpg?w=80&h=80&mode=crop"
+              },
+              {
+                "name": "preview",
+                "url": "https://imgcdn.bokun.tools/7268871e-f4b2-4987-b06e-ecbc51beee57.jpg?w=300&h=300",
+                "cleanUrl": "https://imgcdn.bokun.tools/7268871e-f4b2-4987-b06e-ecbc51beee57.jpg?w=300&h=300"
+              },
+              {
+                "name": "large",
+                "url": "https://imgcdn.bokun.tools/7268871e-f4b2-4987-b06e-ecbc51beee57.jpg?w=660&h=660",
+                "cleanUrl": "https://imgcdn.bokun.tools/7268871e-f4b2-4987-b06e-ecbc51beee57.jpg?w=660&h=660"
+              }
+            ]
+          },
+          {
+            "id": 8854679,
+            "originalUrl": "https://bokun.s3.amazonaws.com/29716d1d-8678-4fe8-a0aa-66e8c3121a53.jpg",
+            "description": null,
+            "alternateText": null,
+            "height": "480",
+            "width": "720",
+            "fileName": "/29716d1d-8678-4fe8-a0aa-66e8c3121a53.jpg",
+            "flags": [],
+            "derived": [
+              {
+                "name": "thumbnail",
+                "url": "https://imgcdn.bokun.tools/29716d1d-8678-4fe8-a0aa-66e8c3121a53.jpg?w=80&h=80&mode=crop",
+                "cleanUrl": "https://imgcdn.bokun.tools/29716d1d-8678-4fe8-a0aa-66e8c3121a53.jpg?w=80&h=80&mode=crop"
+              },
+              {
+                "name": "preview",
+                "url": "https://imgcdn.bokun.tools/29716d1d-8678-4fe8-a0aa-66e8c3121a53.jpg?w=300&h=300",
+                "cleanUrl": "https://imgcdn.bokun.tools/29716d1d-8678-4fe8-a0aa-66e8c3121a53.jpg?w=300&h=300"
+              },
+              {
+                "name": "large",
+                "url": "https://imgcdn.bokun.tools/29716d1d-8678-4fe8-a0aa-66e8c3121a53.jpg?w=660&h=660",
+                "cleanUrl": "https://imgcdn.bokun.tools/29716d1d-8678-4fe8-a0aa-66e8c3121a53.jpg?w=660&h=660"
+              }
+            ]
+          }
+        ],
+        "videos": [],
+        "vendor": {
+          "id": 112548,
+          "title": "Uncle Sam Tours Private Limited",
+          "currencyCode": "EUR",
+          "timeZone": "Europe/Paris",
+          "showInvoiceIdOnTicket": false,
+          "showAgentDetailsOnTicket": false,
+          "showPaymentsOnInvoice": false,
+          "companyEmailIsDefault": false
+        },
+        "boxedVendor": null,
+        "storedExternally": false,
+        "pluginId": null,
+        "reviewRating": null,
+        "reviewCount": null,
+        "activityType": "DAY_TOUR_OR_ACTIVITY",
+        "bookingType": "DATE_AND_TIME",
+        "scheduleType": "RECURRING",
+        "cutoffType": "RELATIVE_TO_START_TIME",
+        "cutoffReferenceHour": null,
+        "cutoffReferenceMinute": null,
+        "earlyBookingLimitType": "MONTHS_BEFORE_TRAVEL_DATE_SPECIFIC_TIME",
+        "earlyBookingLimitSpecificDateTime": null,
+        "earlyBookingLimitDaysBefore": null,
+        "earlyBookingLimitMonthsBefore": 3,
+        "earlyBookingLimitTime": [
+          0,
+          0
+        ],
+        "capacityType": "LIMITED",
+        "passExpiryType": null,
+        "fixedPassExpiryDate": null,
+        "meetingType": "MEET_ON_LOCATION",
+        "privateActivity": false,
+        "passCapacity": 0,
+        "passValidForDays": null,
+        "passesAvailable": 0,
+        "affiliateHubProduct": false,
+        "dressCode": false,
+        "passportRequired": false,
+        "supportedAccessibilityTypes": [],
+        "startPoints": [],
+        "bookingQuestions": [],
+        "passengerFields": [],
+        "inclusions": [],
+        "included": "Professional guide<br />Entrance tickets to the 1st and 2nd floors of the Eiffel Tower<br />Fully guided stair climb to the 2nd floor<br />Summit access by elevator (if selected)<br />Entry/Admission to the Eiffel Tower",
+        "exclusions": [],
+        "excluded": "Gratuities<br />Meals",
+        "requirements": null,
+        "knowBeforeYouGoItems": [
+          "STROLLER_OR_PRAM_ACCESSIBLE",
+          "ANIMALS_OR_PETS_ALLOWED",
+          "PUBLIC_TRANSPORTATION_NEARBY"
+        ],
+        "attention": "<ul><li>Not wheelchair accessible</li><li>Infants must not sit on laps</li><li>Infant seats unavailable</li><li>Not recommended for pregnant travelers</li><li>Not recommended for people with heart conditions</li><li>2 Avenue Octave Gréard, Paris\n\nPLEASE NOTE: The meeting point is NOT at the Eiffel Tower. The meeting point is located at 2 Avenue Octave Gréard, Paris, it is a group tour and the group departs together.\n\nYou may experience waiting times to enter the Eiffel Tower, which can vary depending on the season and time of day; queues for lifts and mandatory security checks typically range from 30 minutes up to 1–2 hours.\n\nFor further information about your visit to the Eiffel Tower, please consult the official visitor’s practical guide: https://www.toureiffel.paris/en/news/visit/visitors-practical-guide</li></ul>",
+        "locationCode": null,
+        "googlePlace": {
+          "id": 1044278,
+          "country": "France",
+          "countryCode": "FR",
+          "city": "Paris",
+          "cityCode": "Paris",
+          "state": "Île-de-France",
+          "stateCode": "IDF",
+          "geoLocationCenter": {
+            "lat": 48.857037,
+            "lng": 2.349401
+          },
+          "addressTypes": []
+        },
+        "tripadvisorReview": {
+          "locationId": "33109495",
+          "url": "https://www.tripadvisor.com/AttractionProductReview-g187147-d33109495-Eiffel_Tower_Climbing_Tour_with_Optional_Summit_with_Elevator-Paris_Ile_de_France.html",
+          "name": "Eiffel Tower Climbing Tour with Optional Summit with Elevator",
+          "rating": 4.9,
+          "numReviews": 575,
+          "description": "Don’t miss out on this unforgettable experience at one of the world’s most iconic landmarks! Our exclusive Eiffel Tower tour invites you to climb the stairs to the 2nd floor alongside a professional guide who will share captivating stories about the tower’s history and the breathtaking views of Paris. With a small group setting, you'll enjoy a more personal and engaging experience away from the crowds.  You’ll also have the option to upgrade your ticket to include access to the summit via elevator for an even more spectacular view.  Book now for an unforgettable adventure in the heart of Paris!"
+        },
+        "resourceSlots": [],
+        "bookingCutoffMinutes": 0,
+        "bookingCutoffHours": 0,
+        "bookingCutoffDays": 0,
+        "bookingCutoffWeeks": 0,
+        "requestDeadlineMinutes": 0,
+        "requestDeadlineHours": 0,
+        "requestDeadlineDays": 2,
+        "requestDeadlineWeeks": 0,
+        "boxedActivityId": null,
+        "comboActivity": false,
+        "comboParts": [],
+        "returnProduct": null,
+        "offers": [],
+        "ticketPerComboComponent": false,
+        "ticketComboComponents": [],
+        "pickupActivityId": null,
+        "allowCustomizedBookings": false,
+        "reservationTimeout": null,
+        "vendorReservationTimeout": null,
+        "dayBasedAvailability": false,
+        "selectFromDayOptions": false,
+        "dayOptions": [],
+        "activityCategories": [
+          "CULTURAL_AND_THEME_TOURS"
+        ],
+        "activityAttributes": [
+          "GROUP_FRIENDLY"
+        ],
+        "guidanceTypes": [
+          {
+            "id": null,
+            "created": [
+              2026,
+              3,
+              30,
+              15,
+              7,
+              5,
+              247911507
+            ],
+            "guidanceType": "GUIDED",
+            "languages": [
+              "en"
+            ],
+            "displayLanguages": [
+              "English"
+            ]
+          }
+        ],
+        "defaultRateId": 1989717,
+        "rates": [
+          {
+            "id": 1989717,
+            "title": "Eiffel Tower Climbing Tour with Summit Access",
+            "description": "",
+            "index": 0,
+            "rateCode": "TG1",
+            "pricedPerPerson": true,
+            "minPerBooking": 1,
+            "maxPerBooking": 999,
+            "cancellationPolicy": {
+              "id": 216370,
+              "title": "Standard Viator policy",
+              "penaltyRules": [
+                {
+                  "id": 228273,
+                  "cutoffHours": 24,
+                  "charge": 100,
+                  "chargeType": "percentage",
+                  "percentage": 100
+                },
+                {
+                  "id": 228272,
+                  "cutoffHours": 48,
+                  "charge": 0,
+                  "chargeType": "percentage",
+                  "percentage": 0
+                }
+              ],
+              "tax": null,
+              "defaultPolicy": false,
+              "policyType": "ADVANCED",
+              "simpleCutoffHours": null,
+              "policyTypeEnum": "ADVANCED"
+            },
+            "fixedPassExpiryDate": null,
+            "passValidForDays": null,
+            "pickupSelectionType": "UNAVAILABLE",
+            "pickupPricingType": "INCLUDED_IN_PRICE",
+            "pickupPricedPerPerson": true,
+            "dropoffSelectionType": "UNAVAILABLE",
+            "dropoffPricingType": "INCLUDED_IN_PRICE",
+            "dropoffPricedPerPerson": true,
+            "extraConfigs": [],
+            "startTimeIds": [
+              4533048,
+              4533049,
+              4533050,
+              4533051,
+              4533052
+            ],
+            "allStartTimes": false,
+            "tieredPricingEnabled": false,
+            "tiers": [],
+            "pricingCategoryIds": [
+              935158,
+              935159,
+              918899
+            ],
+            "allPricingCategories": true,
+            "details": [],
+            "textItems": [
+              {
+                "id": 1989717,
+                "created": [
+                  2026,
+                  3,
+                  30,
+                  15,
+                  7,
+                  5,
+                  250696775
+                ],
+                "language": "en_US",
+                "title": "Eiffel Tower Climbing Tour with Summit Access",
+                "activityRateId": 1989717,
+                "description": ""
+              }
+            ]
+          },
+          {
+            "id": 2037134,
+            "title": "Eiffel Tower Second Floor Only",
+            "description": "",
+            "index": 1,
+            "rateCode": "TG3",
+            "pricedPerPerson": true,
+            "minPerBooking": 1,
+            "maxPerBooking": 999,
+            "cancellationPolicy": {
+              "id": 216370,
+              "title": "Standard Viator policy",
+              "penaltyRules": [
+                {
+                  "id": 228273,
+                  "cutoffHours": 24,
+                  "charge": 100,
+                  "chargeType": "percentage",
+                  "percentage": 100
+                },
+                {
+                  "id": 228272,
+                  "cutoffHours": 48,
+                  "charge": 0,
+                  "chargeType": "percentage",
+                  "percentage": 0
+                }
+              ],
+              "tax": null,
+              "defaultPolicy": false,
+              "policyType": "ADVANCED",
+              "simpleCutoffHours": null,
+              "policyTypeEnum": "ADVANCED"
+            },
+            "fixedPassExpiryDate": null,
+            "passValidForDays": null,
+            "pickupSelectionType": "UNAVAILABLE",
+            "pickupPricingType": "INCLUDED_IN_PRICE",
+            "pickupPricedPerPerson": true,
+            "dropoffSelectionType": "UNAVAILABLE",
+            "dropoffPricingType": "INCLUDED_IN_PRICE",
+            "dropoffPricedPerPerson": true,
+            "extraConfigs": [],
+            "startTimeIds": [
+              4170151,
+              4170152,
+              4173732,
+              4262129,
+              4265752
+            ],
+            "allStartTimes": false,
+            "tieredPricingEnabled": false,
+            "tiers": [],
+            "pricingCategoryIds": [
+              935158,
+              935159,
+              918899
+            ],
+            "allPricingCategories": true,
+            "details": [],
+            "textItems": [
+              {
+                "id": 2037134,
+                "created": [
+                  2026,
+                  3,
+                  30,
+                  15,
+                  7,
+                  5,
+                  259511374
+                ],
+                "language": "en_US",
+                "title": "Eiffel Tower Second Floor Only",
+                "activityRateId": 2037134,
+                "description": ""
+              }
+            ]
+          },
+          {
+            "id": 2156389,
+            "title": "Summit lift & Seine cruise",
+            "description": "",
+            "index": 2,
+            "rateCode": null,
+            "pricedPerPerson": true,
+            "minPerBooking": 1,
+            "maxPerBooking": 30,
+            "cancellationPolicy": {
+              "id": 216370,
+              "title": "Standard Viator policy",
+              "penaltyRules": [
+                {
+                  "id": 228273,
+                  "cutoffHours": 24,
+                  "charge": 100,
+                  "chargeType": "percentage",
+                  "percentage": 100
+                },
+                {
+                  "id": 228272,
+                  "cutoffHours": 48,
+                  "charge": 0,
+                  "chargeType": "percentage",
+                  "percentage": 0
+                }
+              ],
+              "tax": null,
+              "defaultPolicy": false,
+              "policyType": "ADVANCED",
+              "simpleCutoffHours": null,
+              "policyTypeEnum": "ADVANCED"
+            },
+            "fixedPassExpiryDate": null,
+            "passValidForDays": null,
+            "pickupSelectionType": "UNAVAILABLE",
+            "pickupPricingType": "INCLUDED_IN_PRICE",
+            "pickupPricedPerPerson": false,
+            "dropoffSelectionType": "UNAVAILABLE",
+            "dropoffPricingType": "INCLUDED_IN_PRICE",
+            "dropoffPricedPerPerson": false,
+            "extraConfigs": [],
+            "startTimeIds": [
+              4533048,
+              4533049,
+              4533050,
+              4533051,
+              4533052
+            ],
+            "allStartTimes": false,
+            "tieredPricingEnabled": false,
+            "tiers": [],
+            "pricingCategoryIds": [
+              935158,
+              935159,
+              918899
+            ],
+            "allPricingCategories": true,
+            "details": [],
+            "textItems": [
+              {
+                "id": 2156389,
+                "created": [
+                  2026,
+                  3,
+                  30,
+                  15,
+                  7,
+                  5,
+                  264267406
+                ],
+                "language": "en_US",
+                "title": "Summit lift & Seine cruise",
+                "activityRateId": 2156389,
+                "description": ""
+              }
+            ]
+          }
+        ],
+        "ticketPerPerson": false,
+        "durationType": "HOURS",
+        "duration": 2,
+        "durationMinutes": 0,
+        "durationHours": 2,
+        "durationDays": 0,
+        "durationWeeks": 0,
+        "durationText": "2 hours",
+        "minAge": 0,
+        "originalDefaultPrice": null,
+        "nextDefaultPrice": null,
+        "nextDefaultPriceMoney": null,
+        "pickupService": false,
+        "pickupAllotment": false,
+        "pickupAllotmentType": "NO_ALLOTMENT",
+        "useComponentPickupAllotments": false,
+        "pickupFlags": [],
+        "customPickupAllowed": false,
+        "pickupMinutesBefore": 0,
+        "pickupTimeWindowInMinutes": 0,
+        "pickupTimeLocationBased": false,
+        "pickupTimeByLocations": [],
+        "noPickupMsg": null,
+        "ticketMsg": "2 Avenue Octave Gréard, Paris\n\nPLEASE NOTE: The meeting point is NOT at the Eiffel Tower. The meeting point is located at 2 Avenue Octave Gréard, Paris, it is a group tour and the group departs together.\n\nYou may experience waiting times to enter the Eiffel Tower, which can vary depending on the season and time of day; queues for lifts and mandatory security checks typically range from 30 minutes up to 1–2 hours.\n\nFor further information about your visit to the Eiffel Tower, please consult the official visitor’s practical guide: https://www.toureiffel.paris/en/news/visit/visitors-practical-guide",
+        "showGlobalPickupMsg": false,
+        "showNoPickupMsg": false,
+        "pickupPlaceGroups": [],
+        "dropoffService": false,
+        "dropoffFlags": [],
+        "customDropoffAllowed": false,
+        "useSameAsPickUpPlaces": false,
+        "dropoffPlaceGroups": [],
+        "difficultyLevel": "MODERATE",
+        "pricingCategories": [
+          {
+            "id": 935158,
+            "title": "Adult",
+            "ticketCategory": "ADULT",
+            "occupancy": 1,
+            "groupSize": null,
+            "ageQualified": true,
+            "minAge": 12,
+            "maxAge": 99,
+            "dependent": false,
+            "masterCategoryId": null,
+            "maxPerMaster": 0,
+            "sumDependentCategories": false,
+            "maxDependentSum": 0,
+            "internalUseOnly": false,
+            "flags": [],
+            "defaultCategory": true,
+            "fullTitle": "Adult (12 - 99)"
+          },
+          {
+            "id": 935159,
+            "title": "Child",
+            "ticketCategory": "CHILD",
+            "occupancy": 1,
+            "groupSize": null,
+            "ageQualified": true,
+            "minAge": 4,
+            "maxAge": 11,
+            "dependent": false,
+            "masterCategoryId": null,
+            "maxPerMaster": 0,
+            "sumDependentCategories": false,
+            "maxDependentSum": 0,
+            "internalUseOnly": false,
+            "flags": [],
+            "defaultCategory": false,
+            "fullTitle": "Child (4 - 11)"
+          },
+          {
+            "id": 918899,
+            "title": "Infant",
+            "ticketCategory": "INFANT",
+            "occupancy": 1,
+            "groupSize": null,
+            "ageQualified": true,
+            "minAge": 0,
+            "maxAge": 3,
+            "dependent": false,
+            "masterCategoryId": null,
+            "maxPerMaster": 0,
+            "sumDependentCategories": false,
+            "maxDependentSum": 0,
+            "internalUseOnly": false,
+            "flags": [],
+            "defaultCategory": false,
+            "fullTitle": "Infant (0 - 3)"
+          }
+        ],
+        "activityPriceCatalogs": [
+          {
+            "catalog": {
+              "id": 126592,
+              "title": "Default",
+              "defaultCurrency": "EUR",
+              "isVendorDefaultCatalog": true,
+              "currencies": [
+                "EUR"
+              ]
+            },
+            "catalogId": 126592,
+            "currencies": [
+              {
+                "currency": "EUR",
+                "currencyId": 2,
+                "default": true
+              }
+            ]
+          },
+          {
+            "catalog": {
+              "id": 141875,
+              "title": "Headout",
+              "defaultCurrency": "EUR",
+              "isVendorDefaultCatalog": false,
+              "currencies": []
+            },
+            "catalogId": 141875,
+            "currencies": [
+              {
+                "currency": "EUR",
+                "currencyId": 2,
+                "default": true
+              }
+            ]
+          },
+          {
+            "catalog": {
+              "id": 147089,
+              "title": "The Tour Guy",
+              "defaultCurrency": "EUR",
+              "isVendorDefaultCatalog": false,
+              "currencies": []
+            },
+            "catalogId": 147089,
+            "currencies": [
+              {
+                "currency": "EUR",
+                "currencyId": 2,
+                "default": true
+              }
+            ]
+          }
+        ],
+        "agendaItems": [
+          {
+            "id": 3009368,
+            "index": 0,
+            "title": "",
+            "excerpt": null,
+            "body": "At the Eiffel Tower, travelers will embark on a guided ascent, learning fascinating details about the tower's history and architecture along the way. As you climb, you'll reach the first level, where you can walk on a thrilling glass floor, offering a unique perspective of the city below. Continuing to the second tier, enjoy stunning views of Paris from above. For those who choose the upgrade, the experience can be extended to the summit, where even more breathtaking panoramic vistas await.",
+            "day": 1,
+            "flags": [],
+            "location": {
+              "address": "Av. Gustave Eiffel",
+              "city": "Paris",
+              "countryCode": "FR",
+              "postCode": "75007",
+              "latitude": 48.858353,
+              "longitude": 2.294464,
+              "zoomLevel": 0,
+              "origin": "TRIPADVISOR_API",
+              "originId": "188151",
+              "wholeAddress": "Av. Gustave Eiffel, 75007 Paris"
+            },
+            "address": {
+              "id": 15840171,
+              "created": [
+                2025,
+                5,
+                1,
+                7,
+                54,
+                52
+              ],
+              "addressLine1": "Av. Gustave Eiffel",
+              "addressLine2": null,
+              "addressLine3": null,
+              "city": "Paris",
+              "state": null,
+              "postalCode": "75007",
+              "countryCode": "FR",
+              "mapZoomLevel": 0,
+              "geoPoint": {
+                "latitude": 48.858353,
+                "longitude": 2.294464
+              },
+              "unLocode": {
+                "country": "",
+                "city": ""
+              },
+              "origin": "TRIPADVISOR_API",
+              "originId": "188151",
+              "googlePlaceId": null
+            },
+            "keyPhoto": null,
+            "photos": []
+          }
+        ],
+        "startTimes": [
+          {
+            "id": 4265752,
+            "label": "",
+            "externalLabel": "",
+            "hour": 8,
+            "minute": 50,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4533048,
+            "label": "Summit Access",
+            "externalLabel": "Summit Access",
+            "hour": 8,
+            "minute": 50,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4262129,
+            "label": "",
+            "externalLabel": "",
+            "hour": 9,
+            "minute": 20,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4533049,
+            "label": "Summit Access",
+            "externalLabel": "Summit Access",
+            "hour": 9,
+            "minute": 20,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4170152,
+            "label": null,
+            "externalLabel": null,
+            "hour": 12,
+            "minute": 15,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": null,
+            "externalId": "5512924P12_12:15",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4533050,
+            "label": "Summit Access",
+            "externalLabel": "Summit Access",
+            "hour": 12,
+            "minute": 15,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4170151,
+            "label": null,
+            "externalLabel": null,
+            "hour": 15,
+            "minute": 30,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": null,
+            "externalId": "5512924P12_15:30",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4533051,
+            "label": "Summit Access",
+            "externalLabel": "Summit Access",
+            "hour": 15,
+            "minute": 30,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4173732,
+            "label": null,
+            "externalLabel": null,
+            "hour": 18,
+            "minute": 45,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": null,
+            "externalId": "5512924P12_18:45",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4533052,
+            "label": "Summit Access",
+            "externalLabel": "Summit Access",
+            "hour": 18,
+            "minute": 45,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4323952,
+            "label": "",
+            "externalLabel": "",
+            "hour": 19,
+            "minute": 30,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4296340,
+            "label": "",
+            "externalLabel": "",
+            "hour": 20,
+            "minute": 30,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          },
+          {
+            "id": 4307082,
+            "label": "",
+            "externalLabel": "",
+            "hour": 21,
+            "minute": 0,
+            "overrideTimeWhenPickup": false,
+            "pickupHour": 0,
+            "pickupMinute": 0,
+            "durationType": "H",
+            "voucherPickupMsg": "",
+            "externalId": "",
+            "duration": 2,
+            "durationMinutes": 0,
+            "durationHours": 2,
+            "durationDays": 0,
+            "durationWeeks": 0,
+            "flags": []
+          }
+        ],
+        "bookableExtras": [],
+        "route": null,
+        "widgetSettings": null,
+        "hasOpeningHours": false,
+        "defaultOpeningHours": null,
+        "seasonalOpeningHours": [],
+        "displaySettings": {
+          "showPickupPlaces": false,
+          "showRouteMap": false,
+          "selectRateBasedOnStartTime": false,
+          "customFields": []
+        },
+        "hasBoxes": false,
+        "bookingLabels": [],
+        "marketplaceVisibilityType": "PUBLIC",
+        "createMethod": "IMPORT_VIATOR",
+        "requestDeadline": 172800000,
+        "bookingCutoff": 0,
+        "actualId": 1019775,
+        "nextDefaultPriceAsText": "",
+        "actualVendor": {
+          "id": 112548,
+          "title": "Uncle Sam Tours Private Limited",
+          "currencyCode": "EUR",
+          "timeZone": "Europe/Paris",
+          "showInvoiceIdOnTicket": false,
+          "showAgentDetailsOnTicket": false,
+          "showPaymentsOnInvoice": false,
+          "companyEmailIsDefault": false
+        }
+      },
+      "bookingAnswers": [],
+      "pickupAnswers": [],
+      "dropoffAnswers": [],
+      "flexible": false,
+      "customized": false,
+      "customizedDurationMinutes": 0,
+      "customizedDurationHours": 0,
+      "customizedDurationDays": 0,
+      "customizedDurationWeeks": 0,
+      "ticketPerPerson": false,
+      "offerApplied": false,
+      "pricingCategoryBookings": [
+        {
+          "id": 268267730,
+          "pricingCategoryId": 935158,
+          "pricingCategory": {
+            "id": 935158,
+            "title": "Adult",
+            "ticketCategory": "ADULT",
+            "occupancy": 1,
+            "groupSize": 1,
+            "ageQualified": true,
+            "minAge": 12,
+            "maxAge": 99,
+            "dependent": false,
+            "masterCategoryId": null,
+            "maxPerMaster": 0,
+            "sumDependentCategories": false,
+            "maxDependentSum": 0,
+            "internalUseOnly": false,
+            "flags": [],
+            "defaultCategory": false,
+            "fullTitle": "Adult (12 - 99)"
+          },
+          "leadPassenger": true,
+          "age": 0,
+          "passengerInfo": {
+            "contactDetailsHidden": false,
+            "contactDetailsHiddenUntil": null,
+            "id": 165524075,
+            "created": null,
+            "uuid": "e6cdb952-a709-4fb7-81f9-45d3e493c603",
+            "email": null,
+            "title": null,
+            "firstName": "Jamie",
+            "lastName": "Dubes",
+            "personalIdNumber": null,
+            "clcEmail": false,
+            "language": null,
+            "nationality": null,
+            "sex": null,
+            "dateOfBirth": null,
+            "phoneNumber": null,
+            "phoneNumberCountryCode": null,
+            "address": null,
+            "postCode": null,
+            "state": null,
+            "place": null,
+            "country": null,
+            "organization": null,
+            "passportId": null,
+            "passportExpDay": null,
+            "passportExpMonth": null,
+            "passportExpYear": null,
+            "credentials": null,
+            "acceptsMarketing": false,
+            "tags": null,
+            "octoNote": null,
+            "phoneNumberLinkable": null
+          },
+          "bookingAnswers": [],
+          "bookedTitle": "Adult",
+          "occupancy": 1,
+          "quantity": 1,
+          "extras": [],
+          "answers": [],
+          "flags": []
+        },
+        {
+          "id": 268267731,
+          "pricingCategoryId": 935158,
+          "pricingCategory": {
+            "id": 935158,
+            "title": "Adult",
+            "ticketCategory": "ADULT",
+            "occupancy": 1,
+            "groupSize": 1,
+            "ageQualified": true,
+            "minAge": 12,
+            "maxAge": 99,
+            "dependent": false,
+            "masterCategoryId": null,
+            "maxPerMaster": 0,
+            "sumDependentCategories": false,
+            "maxDependentSum": 0,
+            "internalUseOnly": false,
+            "flags": [],
+            "defaultCategory": false,
+            "fullTitle": "Adult (12 - 99)"
+          },
+          "leadPassenger": false,
+          "age": 0,
+          "passengerInfo": {
+            "contactDetailsHidden": false,
+            "contactDetailsHiddenUntil": null,
+            "id": 165524076,
+            "created": null,
+            "uuid": "43a7d650-d4ed-49c7-910b-8d0b63f0ab00",
+            "email": null,
+            "title": null,
+            "firstName": "Charles",
+            "lastName": "Dubes",
+            "personalIdNumber": null,
+            "clcEmail": false,
+            "language": null,
+            "nationality": null,
+            "sex": null,
+            "dateOfBirth": null,
+            "phoneNumber": null,
+            "phoneNumberCountryCode": null,
+            "address": null,
+            "postCode": null,
+            "state": null,
+            "place": null,
+            "country": null,
+            "organization": null,
+            "passportId": null,
+            "passportExpDay": null,
+            "passportExpMonth": null,
+            "passportExpYear": null,
+            "credentials": null,
+            "acceptsMarketing": false,
+            "tags": null,
+            "octoNote": null,
+            "phoneNumberLinkable": null
+          },
+          "bookingAnswers": [],
+          "bookedTitle": "Adult",
+          "occupancy": 1,
+          "quantity": 1,
+          "extras": [],
+          "answers": [],
+          "flags": []
+        },
+        {
+          "id": 268267732,
+          "pricingCategoryId": 935158,
+          "pricingCategory": {
+            "id": 935158,
+            "title": "Adult",
+            "ticketCategory": "ADULT",
+            "occupancy": 1,
+            "groupSize": 1,
+            "ageQualified": true,
+            "minAge": 12,
+            "maxAge": 99,
+            "dependent": false,
+            "masterCategoryId": null,
+            "maxPerMaster": 0,
+            "sumDependentCategories": false,
+            "maxDependentSum": 0,
+            "internalUseOnly": false,
+            "flags": [],
+            "defaultCategory": false,
+            "fullTitle": "Adult (12 - 99)"
+          },
+          "leadPassenger": false,
+          "age": 0,
+          "passengerInfo": {
+            "contactDetailsHidden": false,
+            "contactDetailsHiddenUntil": null,
+            "id": 165524077,
+            "created": null,
+            "uuid": "2f34eab2-ae09-412e-bba8-6979d33fbebf",
+            "email": null,
+            "title": null,
+            "firstName": "Charles",
+            "lastName": "Dubes",
+            "personalIdNumber": null,
+            "clcEmail": false,
+            "language": null,
+            "nationality": null,
+            "sex": null,
+            "dateOfBirth": null,
+            "phoneNumber": null,
+            "phoneNumberCountryCode": null,
+            "address": null,
+            "postCode": null,
+            "state": null,
+            "place": null,
+            "country": null,
+            "organization": null,
+            "passportId": null,
+            "passportExpDay": null,
+            "passportExpMonth": null,
+            "passportExpYear": null,
+            "credentials": null,
+            "acceptsMarketing": false,
+            "tags": null,
+            "octoNote": null,
+            "phoneNumberLinkable": null
+          },
+          "bookingAnswers": [],
+          "bookedTitle": "Adult",
+          "occupancy": 1,
+          "quantity": 1,
+          "extras": [],
+          "answers": [],
+          "flags": []
+        },
+        {
+          "id": 268267733,
+          "pricingCategoryId": 935158,
+          "pricingCategory": {
+            "id": 935158,
+            "title": "Adult",
+            "ticketCategory": "ADULT",
+            "occupancy": 1,
+            "groupSize": 1,
+            "ageQualified": true,
+            "minAge": 12,
+            "maxAge": 99,
+            "dependent": false,
+            "masterCategoryId": null,
+            "maxPerMaster": 0,
+            "sumDependentCategories": false,
+            "maxDependentSum": 0,
+            "internalUseOnly": false,
+            "flags": [],
+            "defaultCategory": false,
+            "fullTitle": "Adult (12 - 99)"
+          },
+          "leadPassenger": false,
+          "age": 0,
+          "passengerInfo": {
+            "contactDetailsHidden": false,
+            "contactDetailsHiddenUntil": null,
+            "id": 165524078,
+            "created": null,
+            "uuid": "dd246b4c-76a8-4726-b408-5600e58ae1d4",
+            "email": null,
+            "title": null,
+            "firstName": "Myleigh",
+            "lastName": "Dubes",
+            "personalIdNumber": null,
+            "clcEmail": false,
+            "language": null,
+            "nationality": null,
+            "sex": null,
+            "dateOfBirth": null,
+            "phoneNumber": null,
+            "phoneNumberCountryCode": null,
+            "address": null,
+            "postCode": null,
+            "state": null,
+            "place": null,
+            "country": null,
+            "organization": null,
+            "passportId": null,
+            "passportExpDay": null,
+            "passportExpMonth": null,
+            "passportExpYear": null,
+            "credentials": null,
+            "acceptsMarketing": false,
+            "tags": null,
+            "octoNote": null,
+            "phoneNumberLinkable": null
+          },
+          "bookingAnswers": [],
+          "bookedTitle": "Adult",
+          "occupancy": 1,
+          "quantity": 1,
+          "extras": [],
+          "answers": [],
+          "flags": []
+        }
+      ],
+      "extras": [],
+      "bookingFields": [],
+      "pickup": false,
+      "dropoff": false,
+      "inventoryConfirmFailed": false,
+      "channelId": "OTA_VIATOR",
+      "guidedLanguages": [
+        {
+          "type": null,
+          "language": "en"
+        },
+        {
+          "type": null,
+          "language": "en"
+        },
+        {
+          "type": null,
+          "language": "en"
+        }
+      ],
+      "quantityByPricingCategory": {
+        "935158": 4
+      },
+      "bookedPricingCategories": [
+        {
+          "id": 935158,
+          "title": "Adult",
+          "ticketCategory": null,
+          "occupancy": 1,
+          "groupSize": 1,
+          "ageQualified": false,
+          "minAge": null,
+          "maxAge": null,
+          "dependent": false,
+          "masterCategoryId": null,
+          "maxPerMaster": 0,
+          "sumDependentCategories": false,
+          "maxDependentSum": 0,
+          "internalUseOnly": false,
+          "flags": [],
+          "defaultCategory": false,
+          "fullTitle": "Adult"
+        }
+      ],
+      "totalParticipants": 4,
+      "savedAmount": 0
+    }
+  ],
+  "routeBookings": [],
+  "giftCardBookings": [],
+  "bookingFields": []
+}
